@@ -1,0 +1,39 @@
+body{
+   
+    font-family:"Bree Serif" ;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100%;
+    overflow-x: hidden;
+   
+}
+.img1{
+    width: 100vw;
+    /* height: 50vh; */
+}
+h1,h3 ,h4{
+    color: #fff;
+}
+img{
+    width: 40vw;
+}
+p{
+    color: hsl(0, 9%, 79%);
+}
+/* button{
+    height: 35px;
+    width: 105px;
+    border-width: 0px;
+    border-radius: 40px;
+    background-color: #8e97fd;
+    color: #ffff;
+    font-weight: bold;
+} */
+.main-container{
+    padding: 20px;
+    margin: 20px;
+    /* height: 40vh; */
+}
+.img2{
+    margin-left: 20px;
+}
